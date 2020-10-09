@@ -25,3 +25,5 @@ Need to be download these Modules
 ---
 * I used Bernoulli Naive Bayes algorithm in this project , because the target feature contains only binary value(0 and 1) .
 
+---
+**Note** : Make sure that You have downloaded the dataset before reading the file.
