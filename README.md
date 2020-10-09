@@ -1,4 +1,4 @@
-# Tweeter-Sentimental-Analysis-Project-
+# Tweeter-Sentiment-Analysis-Project-
 **PREREQUISITE** :
 Need to be download these Modules 
 * numpy
